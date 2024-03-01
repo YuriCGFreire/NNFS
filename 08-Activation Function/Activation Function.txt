@@ -1,0 +1,17 @@
+Função de ativação Step (Step function)
+y = 1 se x > 0
+y = 0 se x <= 0
+
+Retorna 0 se o output for menor ou igual a 0 e 1 se for maior que 0
+
+Linear activation function 
+y = x
+
+Sigmoid activation function
+y = 1 / 1 + e ** -x (e ** -x = numero de euler elevado a -x)
+
+Retorna valores entre 0 e 1
+
+Rectifiec Linear Activation function
+y = x se x > 0
+y = 0 se x <= 0
